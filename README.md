@@ -1,5 +1,5 @@
 <H1>🖥️ MY_PAINT 🖥️</H1>
-My_Paint est un projet Epitech où l'objectif est de recréer un logiciel de dessin, inspiré de Paint, en utilisant la programmation graphique. Ce projet permet de gérer un menu déroulant, d'utiliser différents outils de dessin et d'inclure une page d'aide pour faciliter l'utilisation du logiciel. <br>
+My_Paint est un projet Epitech où l'objectif est de recréer un logiciel de dessin, inspiré de Paint, en utilisant la programmation graphique (CSFML). Ce projet permet de gérer un menu déroulant, d'utiliser différents outils de dessin et d'inclure une page d'aide pour faciliter l'utilisation du logiciel. <br>
 
 <H1>🎯 OBJECTIFS 🎯</H1>
 Recréer un logiciel de dessin avec des outils de base comme le pinceau, la gomme, et un menu pour gérer les actions. <br>
