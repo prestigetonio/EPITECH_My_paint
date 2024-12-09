@@ -8,9 +8,7 @@ Recréer un logiciel de dessin avec des outils de base comme le pinceau, la gomm
 Comme le savent les personnes à Epitech, le projet est corrigé par la moulinette, voici les résultats : <br>
 Prérequis remplis : 
 <br><br>
-- Global : ?% <br>
-- Menu déroulant : ?% <br>
-- Outils de dessin : ?% <br>
+- ✔️ TOTAL : 1.5 (Segmentation fault)<br>
 <br>
 
 >[!IMPORTANT]
